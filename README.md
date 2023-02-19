@@ -55,7 +55,6 @@ Exemplo: http://localhost:8080/cliente/1
 }
 
 
-####Observação:
-Ao ser realizado a edição de cliente com um novo endereço, esse endereço não substitui o antigo. O novo endereço é atribuído ao id do cliente.
 
-"# attornatusApi" 
+Observação:
+Ao ser realizado a edição de cliente com um novo endereço, esse endereço não substitui o antigo. O novo endereço é atribuído ao id do cliente.
